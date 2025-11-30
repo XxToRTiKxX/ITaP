@@ -1,0 +1,4 @@
+Исключение: CustomEmailFormatException: Недопустимый формат email: user@@mail.com
+Исключение: CustomEmailFormatException: Недопустимый формат email: user@@mail.com
+Исключение: CustomEmailFormatException: 
+Недопустимый формат email: user@@mail.com
